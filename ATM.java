@@ -96,7 +96,7 @@ public class Main{
         admin_id=sc.next();
         System.out.print("ENTER ADMIN PASSWORD: ");
         admin_pass=sc.next();
-        if(admin_id.equals("nithish") && admin_pass.equals("1234")){
+        if(admin_id.equals("thaya") && admin_pass.equals("1234")){
             clear();
             System.out.println("\t\t\t********** WELCOME YOU ADMIN ! ! ! **********");
             System.out.println("1.ADD CASH");
